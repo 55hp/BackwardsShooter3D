@@ -23,7 +23,7 @@ public static class Level
 
     //Enemy spawner starting time and spawn rate
     public static float enemyStartingSpawnTime = 1;
-    public static float enemySpawnRate = 0.2f;
+    public static float enemySpawnRate = 0.5f;
 
     #endregion
 
